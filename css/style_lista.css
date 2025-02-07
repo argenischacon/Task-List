@@ -1,0 +1,19 @@
+*{
+    font-family: Product Sans;
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
+
+li{
+    padding-bottom: 2px;
+}
